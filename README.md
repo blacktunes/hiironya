@@ -1,24 +1,5 @@
-# hiironya
+# HiiroNya
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+BGM: https://www.bilibili.com/video/BV1Ey4y1p79h
+项目原型： https://aidn.jp/mikutap/
+代码参考： https://github.com/EggTronic/EggTap
