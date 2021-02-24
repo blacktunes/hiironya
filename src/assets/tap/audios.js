@@ -1,54 +1,34 @@
-import sound1 from './audios/1.mp3'
-import sound2 from './audios/2.mp3'
-import sound3 from './audios/3.mp3'
-import sound4 from './audios/4.mp3'
-import sound5 from './audios/5.mp3'
-import sound6 from './audios/6.mp3'
-import sound7 from './audios/7.mp3'
-import sound8 from './audios/8.mp3'
-import sound9 from './audios/9.mp3'
-import sound10 from './audios/10.mp3'
-import sound11 from './audios/11.mp3'
-import sound12 from './audios/12.mp3'
-import sound13 from './audios/13.mp3'
-import sound14 from './audios/14.mp3'
-import sound15 from './audios/15.mp3'
-import sound16 from './audios/16.mp3'
-import sound17 from './audios/17.mp3'
-import sound18 from './audios/18.mp3'
-import sound19 from './audios/19.mp3'
-
 export const audios = {
-  sound1: sound1,
-  sound2: sound2,
-  sound3: sound3,
-  sound4: sound4,
-  sound5: sound5,
-  sound6: sound6,
-  sound7: sound7,
-  sound8: sound8,
-  sound9: sound9,
-  sound10: sound10,
-  sound11: sound11,
-  sound12: sound12,
-  sound13: sound13,
-  sound14: sound14,
-  sound15: sound15,
-  sound16: sound16,
-  sound17: sound17,
-  sound18: sound18,
-  sound19: sound19,
-  sound20: sound18,
-  sound21: sound17,
-  sound22: sound16,
-  sound23: sound15,
-  sound24: sound14,
-  sound25: sound13,
-  sound26: sound12,
-  sound27: sound11,
-  sound28: sound10,
-  sound29: sound9,
-  sound30: sound8,
-  sound31: sound7,
-  sound32: sound6
+  sound1: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/1.mp3',
+  sound2: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/2.mp3',
+  sound3: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/3.mp3',
+  sound4: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/4.mp3',
+  sound5: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/5.mp3',
+  sound6: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/6.mp3',
+  sound7: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/7.mp3',
+  sound8: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/8.mp3',
+  sound9: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/9.mp3',
+  sound10: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/10.mp3',
+  sound11: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/11.mp3',
+  sound12: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/12.mp3',
+  sound13: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/13.mp3',
+  sound14: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/14.mp3',
+  sound15: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/15.mp3',
+  sound16: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/16.mp3',
+  sound17: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/17.mp3',
+  sound18: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/18.mp3',
+  sound19: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/19.mp3',
+  sound20: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/18.mp3',
+  sound21: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/17.mp3',
+  sound22: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/16.mp3',
+  sound23: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/15.mp3',
+  sound24: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/14.mp3',
+  sound25: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/13.mp3',
+  sound26: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/12.mp3',
+  sound27: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/11.mp3',
+  sound28: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/10.mp3',
+  sound29: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/9.mp3',
+  sound30: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/8.mp3',
+  sound31: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/7.mp3',
+  sound32: 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/6.mp3'
 }

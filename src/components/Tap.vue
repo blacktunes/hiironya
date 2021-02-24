@@ -10,7 +10,6 @@ import 'pixi-sound'
 import '@pixi/graphics-extras'
 import { colors } from '@/assets/tap/colors'
 import { audios } from '@/assets/tap/audios'
-import bgm from '../assets/tap/audios/薄群青.mp3'
 
 window.PIXI = PIXI
 require('pixi-layers')
@@ -283,7 +282,7 @@ const drawBackground = () => {
 }
 
 const initAudios = async () => {
-  PIXI.Loader.shared.add('bgm', bgm)
+  PIXI.Loader.shared.add('bgm', 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/%E8%96%84%E7%BE%A4%E9%9D%92.mp3')
   for (const name in audios) {
     PIXI.Loader.shared.add(name, audios[name])
   }
