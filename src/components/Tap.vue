@@ -282,7 +282,7 @@ const drawBackground = () => {
 }
 
 const initAudios = async () => {
-  PIXI.Loader.shared.add('bgm', 'https://cdn.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/%E8%96%84%E7%BE%A4%E9%9D%92.mp3')
+  PIXI.Loader.shared.add('bgm', 'https://fastly.jsdelivr.net/gh/blacktunes/hiironya@master/src/assets/tap/audios/%E8%96%84%E7%BE%A4%E9%9D%92.mp3')
   for (const name in audios) {
     PIXI.Loader.shared.add(name, audios[name])
   }
