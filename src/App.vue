@@ -15,4 +15,5 @@ export default {
 <style lang="stylus">
 body
   margin 0
+  overflow hidden
 </style>
